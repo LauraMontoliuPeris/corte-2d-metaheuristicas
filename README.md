@@ -3,7 +3,7 @@
 Trabajo del **Máster en Planificación y Gestión de Procesos Empresariales** (Universitat de València) · Caso III  
 **Autoras:** Laura Montoliu Peris y Aya Limouri Hazzaf · **Profesor:** Ramón Álvarez-Valdés
 
-![Patrón de corte del Problema 3](genetico3.png)
+![Patrón de corte del Problema 3](img/genetico3.png)
 
 ## El problema
 Tenemos una lámina de dimensiones conocidas y un conjunto de tipos de piezas rectangulares, cada uno con
