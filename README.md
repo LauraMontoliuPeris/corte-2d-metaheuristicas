@@ -19,7 +19,7 @@ maximizando el área aprovechada. Es un problema NP-hard, habitual en industrias
 | 3 | 132 × 100 | 95,80 % | 98,69 % |
 | **Media** | | **93,86 %** | **95,85 %** |
 
-![Patrón de corte](genetico3.png)
+![Patrón de corte](img/genetico3.png)
 
 ## Cómo ejecutarlo
 pip install matplotlib
